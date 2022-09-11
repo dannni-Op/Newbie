@@ -1,0 +1,4 @@
+Rencana belajar untuk kedepannya.
+-belajar OOP
+-belajar Phyton
+-memperkuat fundamental Javascript
