@@ -2,3 +2,5 @@ Rencana belajar untuk kedepannya.
 -belajar OOP
 -belajar Phyton
 -memperkuat fundamental Javascript
+-belajar framework laravel
+-belajar framework codeigniter
