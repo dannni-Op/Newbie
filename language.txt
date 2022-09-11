@@ -2,4 +2,4 @@ language and framework i will learn
 -laravel
 -codeigniter
 -react js
--phyton
+-API
