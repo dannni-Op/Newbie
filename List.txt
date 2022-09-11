@@ -4,4 +4,3 @@ Rencana belajar untuk kedepannya.
 -memperkuat fundamental Javascript
 -belajar framework laravel
 -belajar framework codeigniter
--ingin memiliki keyboard reddragon k617
