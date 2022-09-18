@@ -3,3 +3,4 @@ language and framework i will learn
 -codeigniter
 -react js
 -API
+-Phyton
